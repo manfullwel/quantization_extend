@@ -37,6 +37,9 @@ qext build-db --dataset ./dataset --out ./output/quant_db.json
 qext match --db ./output/quant_db.json --input ./suspeita.jpg
 ```
 
+```Creditos >>
+https://github.com/Cyber-Root0/jpeg-quantization-fingerprint.git
+```
 ## Saida (forense)
 
 - hashes SHA-256 do arquivo
