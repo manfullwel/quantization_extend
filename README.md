@@ -38,10 +38,9 @@ qext match --db ./output/quant_db.json --input ./suspeita.jpg
 ```
 
 ```Creditos >>
-https://github.com/Cyber-Root0/jpeg-quantization-fingerprint.git
-```
+. ```
 ## Saida (forense)
-
+- https://github.com/Cyber-Root0/jpeg-quantization-fingerprint.git
 - hashes SHA-256 do arquivo
 - tabelas Y/CbCr em 8x8
 - fingerprint (qhash) de Y e C
