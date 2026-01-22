@@ -1,0 +1,103 @@
+============================================================
+MATCHES POR PORCENTAGEM DE QUALIDADE (GIMP vs PHOTOSHOP vs PIXLR)
+============================================================
+1%: gimp e pixlr são idênticos vs photoshop
+2%: gimp vs photoshop vs pixlr
+3%: gimp vs photoshop vs pixlr
+4%: gimp vs photoshop vs pixlr
+5%: gimp e pixlr são idênticos vs photoshop
+6%: gimp vs photoshop vs pixlr
+7%: gimp vs photoshop vs pixlr
+8%: gimp vs photoshop vs pixlr
+9%: gimp vs photoshop vs pixlr
+10%: gimp e pixlr são idênticos vs photoshop
+11%: gimp vs photoshop vs pixlr
+12%: gimp vs photoshop vs pixlr
+13%: gimp vs photoshop vs pixlr
+14%: gimp vs photoshop vs pixlr
+15%: gimp e pixlr são idênticos vs photoshop
+16%: gimp vs photoshop vs pixlr
+17%: gimp vs photoshop vs pixlr
+18%: gimp vs photoshop vs pixlr
+19%: gimp vs photoshop vs pixlr
+20%: gimp e pixlr são idênticos vs photoshop
+21%: gimp vs photoshop vs pixlr
+22%: gimp vs photoshop vs pixlr
+23%: gimp vs photoshop vs pixlr
+24%: gimp vs photoshop vs pixlr
+25%: gimp e pixlr são idênticos vs photoshop
+26%: gimp vs photoshop vs pixlr
+27%: gimp vs photoshop vs pixlr
+28%: gimp vs photoshop vs pixlr
+29%: gimp vs photoshop vs pixlr
+30%: gimp e pixlr são idênticos vs photoshop
+31%: gimp vs photoshop vs pixlr
+32%: gimp vs photoshop vs pixlr
+33%: gimp vs photoshop vs pixlr
+34%: gimp vs photoshop vs pixlr
+35%: gimp e pixlr são idênticos vs photoshop
+36%: gimp vs photoshop vs pixlr
+37%: gimp vs photoshop vs pixlr
+38%: gimp vs photoshop vs pixlr
+39%: gimp vs photoshop vs pixlr
+40%: gimp e pixlr são idênticos vs photoshop
+41%: gimp e pixlr são idênticos vs photoshop
+42%: gimp e pixlr são idênticos vs photoshop
+43%: gimp e pixlr são idênticos vs photoshop
+44%: gimp e pixlr são idênticos vs photoshop
+45%: gimp e pixlr são idênticos vs photoshop
+46%: gimp e pixlr são idênticos vs photoshop
+47%: gimp e pixlr são idênticos vs photoshop
+48%: gimp e pixlr são idênticos vs photoshop
+49%: gimp e pixlr são idênticos vs photoshop
+50%: gimp e pixlr são idênticos vs photoshop
+51%: gimp e pixlr são idênticos vs photoshop
+52%: gimp e pixlr são idênticos vs photoshop
+53%: gimp e pixlr são idênticos vs photoshop
+54%: gimp e pixlr são idênticos vs photoshop
+55%: gimp e pixlr são idênticos vs photoshop
+56%: gimp e pixlr são idênticos vs photoshop
+57%: gimp e pixlr são idênticos vs photoshop
+58%: gimp e pixlr são idênticos vs photoshop
+59%: gimp e pixlr são idênticos vs photoshop
+60%: gimp e pixlr são idênticos vs photoshop
+61%: gimp e pixlr são idênticos vs photoshop
+62%: gimp e pixlr são idênticos vs photoshop
+63%: gimp e pixlr são idênticos vs photoshop
+64%: gimp e pixlr são idênticos vs photoshop
+65%: gimp e pixlr são idênticos vs photoshop
+66%: gimp e pixlr são idênticos vs photoshop
+67%: gimp e pixlr são idênticos vs photoshop
+68%: gimp e pixlr são idênticos vs photoshop
+69%: gimp e pixlr são idênticos vs photoshop
+70%: gimp e pixlr são idênticos vs photoshop
+71%: gimp e pixlr são idênticos vs photoshop
+72%: gimp e pixlr são idênticos vs photoshop
+73%: gimp e pixlr são idênticos vs photoshop
+74%: gimp e pixlr são idênticos vs photoshop
+75%: gimp e pixlr são idênticos vs photoshop
+76%: gimp e pixlr são idênticos vs photoshop
+77%: gimp e pixlr são idênticos vs photoshop
+78%: gimp e pixlr são idênticos vs photoshop
+79%: gimp e pixlr são idênticos vs photoshop
+80%: gimp e pixlr são idênticos vs photoshop
+81%: gimp e pixlr são idênticos vs photoshop
+82%: gimp e pixlr são idênticos vs photoshop
+83%: gimp e pixlr são idênticos vs photoshop
+84%: gimp e pixlr são idênticos vs photoshop
+85%: gimp e pixlr são idênticos vs photoshop
+86%: gimp e pixlr são idênticos vs photoshop
+87%: gimp e pixlr são idênticos vs photoshop
+88%: gimp e pixlr são idênticos vs photoshop
+89%: gimp e pixlr são idênticos vs photoshop
+90%: gimp e pixlr são idênticos vs photoshop
+91%: gimp e pixlr são idênticos vs photoshop
+92%: gimp e pixlr são idênticos vs photoshop
+93%: gimp e pixlr são idênticos vs photoshop
+94%: gimp e pixlr são idênticos vs photoshop
+95%: gimp e pixlr são idênticos vs photoshop
+96%: gimp e pixlr são idênticos vs photoshop
+97%: gimp e pixlr são idênticos vs photoshop
+98%: gimp e pixlr são idênticos vs photoshop
+99%: gimp e pixlr são idênticos vs photoshop
+100%: gimp e pixlr são idênticos vs photoshop
